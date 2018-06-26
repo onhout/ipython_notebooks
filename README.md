@@ -1,2 +1,1 @@
-# ipython_notebooks
-# ipython_notebooks
+# Python notebooks for stock testing
